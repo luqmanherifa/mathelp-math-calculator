@@ -1,1 +1,1 @@
-# Math Calculator: Kalkulator Matematika
+# Math Calculator
